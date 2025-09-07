@@ -685,8 +685,9 @@ When you install a new **hard disk or SSD** in your PC, you connect it to the mo
 * **Bluetooth** → Wireless short-range communication.
 * **USB** → Universal data + power connection.
 * **HDMI** → High-quality audio-video connection.
----
 
+
+---
 
 
 
@@ -732,7 +733,7 @@ Think of RAID like **writing notes**:
 
 ---
 
-## 3. **Types of RAID Levels**
+### 3. **Types of RAID Levels**
 
 ### 🔹 **RAID 0 (Striping)**
 
