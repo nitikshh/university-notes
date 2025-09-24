@@ -128,9 +128,6 @@ If the read/write head touches the platter surface, a head crash occurs, which c
 
 The read/write head is a highly specialized electromechanical component that combines ferrite cores, fine wire coils, and precise aerodynamic design. It operates on the principles of electromagnetism to read and write data while “floating” nanometers above the disk surface. Understanding the physics of the read/write head is essential for comprehending how HDDs store and retrieve data with high speed and reliability.
 
----
-
-Here’s a structured, university-style write-up for **Topic 4: Data Writing Mechanism (Magnetization Process)**, following your assignment style:
 
 ---
 
@@ -177,10 +174,6 @@ The data writing mechanism in HDDs relies on the controlled generation of magnet
 
 ---
 
-Here’s a university-style write-up for **Topic 5: Data Reading Mechanism (Electromagnetic Induction)** in your assignment style:
-
----
-
 # **5. Data Reading Mechanism (Electromagnetic Induction)**
 
 ### **5.1 Role of the Read Element**
@@ -222,10 +215,6 @@ Data reading is organized according to the physical layout of the platters: trac
 ### **Summary**
 
 The data reading mechanism in HDDs relies on electromagnetic induction, converting the magnetic orientation of domains on the platters into electrical signals. The combination of ferrite cores, precise head positioning, signal amplification, and digital conversion ensures accurate and reliable retrieval of stored data. Understanding this process is essential to appreciate how HDDs achieve high-speed access to large volumes of information.
-
----
-
-Here’s a university-style write-up for **Topic 5: Data Reading Mechanism (Electromagnetic Induction)** in your assignment style:
 
 ---
 
